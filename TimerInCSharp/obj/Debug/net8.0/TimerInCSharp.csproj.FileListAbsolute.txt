@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\TimerInCSharp\bin\Debug\net8.0\TimerInCSharp.exe
+C:\Users\48571\source\repos\TimerInCSharp\bin\Debug\net8.0\TimerInCSharp.deps.json
+C:\Users\48571\source\repos\TimerInCSharp\bin\Debug\net8.0\TimerInCSharp.runtimeconfig.json
+C:\Users\48571\source\repos\TimerInCSharp\bin\Debug\net8.0\TimerInCSharp.dll
+C:\Users\48571\source\repos\TimerInCSharp\bin\Debug\net8.0\TimerInCSharp.pdb
+C:\Users\48571\source\repos\TimerInCSharp\obj\Debug\net8.0\TimerInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\TimerInCSharp\obj\Debug\net8.0\TimerInCSharp.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\TimerInCSharp\obj\Debug\net8.0\TimerInCSharp.AssemblyInfo.cs
+C:\Users\48571\source\repos\TimerInCSharp\obj\Debug\net8.0\TimerInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\TimerInCSharp\obj\Debug\net8.0\TimerInCSharp.dll
+C:\Users\48571\source\repos\TimerInCSharp\obj\Debug\net8.0\refint\TimerInCSharp.dll
+C:\Users\48571\source\repos\TimerInCSharp\obj\Debug\net8.0\TimerInCSharp.pdb
+C:\Users\48571\source\repos\TimerInCSharp\obj\Debug\net8.0\TimerInCSharp.genruntimeconfig.cache
+C:\Users\48571\source\repos\TimerInCSharp\obj\Debug\net8.0\ref\TimerInCSharp.dll
